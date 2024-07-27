@@ -12,7 +12,7 @@ This is a simple Password Generator built using React and Vite. It generates a r
 
 ## Demo
 
-![Password Generator](passworgenerator.png)
+![Password Generator](./passwordgenerator/public/passwordgenerator.png)
 
 ## Installation
 
